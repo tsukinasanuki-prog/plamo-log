@@ -1,4 +1,4 @@
-# PLAMO LOG（OneDriveフォルダ共有版）
+﻿# PLAMO LOG（OneDriveフォルダ共有版）
 
 ## 保存方式
 - PCはWindows版ChromeまたはEdgeでOneDrive同期フォルダ内の `PLAMO_LOG_DATA` を選択します。
