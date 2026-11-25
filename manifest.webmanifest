@@ -1,1 +1,8 @@
-{"name": "PLAMO LOG", "short_name": "PLAMO LOG", "start_url": "./", "display": "standalone", "theme_color": "#183d68", "background_color": "#f4f6f9"}
+{
+  "name": "俺プラモ",
+  "short_name": "俺プラモ",
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#183d68",
+  "background_color": "#f4f6f9"
+}
